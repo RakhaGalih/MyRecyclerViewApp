@@ -1,5 +1,5 @@
 # MyRecyclerViewApp
-## RecyclerView modul15
+## RecyclerView modul 15
 ### Rakha Galih Nugraha S
 
 ### Penjelasan RecyclerView
