@@ -10,4 +10,5 @@
 > User permission untuk internet yang ada di manifest digunakan untuk menginzinkan pengguna untuk mendapakatkan akses internet untuk dapat mengakses gambar atau photo pahlawan dari internet.
 
 ### ScreenShot
+>List
 ![cs](https://user-images.githubusercontent.com/54633534/93285980-4c2e1b80-f800-11ea-8afd-6d5cb0a6f08f.jpg)
