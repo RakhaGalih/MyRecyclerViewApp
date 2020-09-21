@@ -13,3 +13,7 @@
 >List
 
 ![cs](https://user-images.githubusercontent.com/54633534/93285980-4c2e1b80-f800-11ea-8afd-6d5cb0a6f08f.jpg)
+
+>Grid
+
+![ss2recycler](https://user-images.githubusercontent.com/54633534/93558175-095a7800-f9a7-11ea-8e02-f3e5a9cd0a0d.jpg)
