@@ -17,3 +17,7 @@
 >Grid
 
 ![ss2recycler](https://user-images.githubusercontent.com/54633534/93558175-095a7800-f9a7-11ea-8e02-f3e5a9cd0a0d.jpg)
+
+>Card
+
+![ss3recycler](https://user-images.githubusercontent.com/54633534/93761399-f1e5ee00-fc37-11ea-8553-13c962e3c4e2.jpg)
