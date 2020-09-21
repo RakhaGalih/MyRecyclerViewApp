@@ -42,6 +42,12 @@ private ArrayList<Hero> list = new ArrayList<>();
         rvHeroes.setAdapter(gridHeroAdapter);
     }
 
+    private void showRecyclerCardView(){
+        rvHeroes.setLayoutManager(new LinearLayoutManager(this));
+        CardViewHeroAdapter cardViewHeroAdapter = new CardViewHeroAdapter(list);
+        rvHeroes.setAdapter(cardViewHeroAdapter);
+    }
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu){
@@ -50,7 +56,7 @@ private ArrayList<Hero> list = new ArrayList<>();
     }
 
     @Override
-	public boolean onOptionsItemSelected(MenuItem item) {
+    public boolean onOptionsItemSelected(MenuItem item) {
         setMode(item.getItemId());
         return super.onOptionsItemSelected(item);
     }
@@ -64,6 +70,7 @@ private ArrayList<Hero> list = new ArrayList<>();
                 showRecyclerGrid();
                 break;
             case R.id.action_cardview:
+                showRecyclerCardView();
                 break;
         }
     }
