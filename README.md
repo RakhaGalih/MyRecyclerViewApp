@@ -21,3 +21,16 @@
 >Card
 
 ![ss3recycler](https://user-images.githubusercontent.com/54633534/93761399-f1e5ee00-fc37-11ea-8553-13c962e3c4e2.jpg)
+
+### ScreenShot with title
+>List
+
+![sctitle1](https://user-images.githubusercontent.com/54633534/93835508-b126bd00-fca9-11ea-9784-afc3721fbc48.jpg)
+
+>Grid
+
+![sctitle2](https://user-images.githubusercontent.com/54633534/93835515-b421ad80-fca9-11ea-9997-e05a4ec239c2.jpg)
+
+>Card
+
+![sctitle3](https://user-images.githubusercontent.com/54633534/93835523-b6840780-fca9-11ea-804f-7c1519e34856.jpg)
