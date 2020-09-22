@@ -22,6 +22,7 @@ private ArrayList<Hero> list = new ArrayList<>();
         super.onCreate(savedInstanceState);
         View _mw = getLayoutInflater().inflate(R.layout.activity_main, null);
         setContentView(_mw);
+        setTitle("Mode List");
 
         rvHeroes = findViewById(R.id.rv_heroes);
         rvHeroes.setHasFixedSize(true);
@@ -64,12 +65,15 @@ private ArrayList<Hero> list = new ArrayList<>();
     public void setMode(int selectedMode){
         switch (selectedMode){
             case R.id.action_list:
+                setTitle("Mode List");
                 showRecyclerList();
                 break;
             case R.id.action_grid:
+                setTitle("Mode Grid");
                 showRecyclerGrid();
                 break;
             case R.id.action_cardview:
+                setTitle("Mode CardView");
                 showRecyclerCardView();
                 break;
         }
